@@ -31,13 +31,13 @@ graph_embedding/
 
 Clone the repository:
 
-git clone <repo-url>
-cd <repo-name>
+```bash
+git clone https://github.com/dcansenol/UNSW-NB15-Intrusion-Detection.git
+cd UNSW-NB15-Intrusion-Detection
 
-Install dependencies:
+## Install dependencies:
 
 pip install -r requirements.txt
-
 
 ## Running the Notebooks
 

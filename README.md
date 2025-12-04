@@ -103,8 +103,9 @@ If you use this work, please cite:
 
 ---
 
-Author
+## Author
 
-Doğan Can Şenol
-MEng Computer Science
+**Doğan Can Şenol**  
+MEng Computer Science  
 GISMA University of Applied Sciences
+

@@ -34,6 +34,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/dcansenol/UNSW-NB15-Intrusion-Detection.git
 cd UNSW-NB15-Intrusion-Detection
+```
 
 ## Install dependencies:
 

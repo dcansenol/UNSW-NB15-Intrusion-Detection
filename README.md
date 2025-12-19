@@ -241,6 +241,16 @@ Node embeddings computed using:
 
 ---
 
+## Dataset
+
+This project uses the **UNSW-NB15** dataset for network intrusion detection experiments.
+
+The dataset was introduced by Moustafa and Slay (2015) and is publicly available at:
+
+https://research.unsw.edu.au/projects/unsw-nb15-dataset
+
+---
+
 ## **Citation**
 
 If you use this work, please cite:
